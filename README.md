@@ -1,56 +1,22 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Test Driven Devlopement Practice
 
-# Project Name
-
-> Description the project.
+> A few practical tests for JavaScript functions using the **Jest** library.Followed the AAA pattern to make tests easier for other developers to read and understand. Tried to use the TDD approach in practice.
 
 
-## Built With
+## Tecnologies Used
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- Vanilla Javascript
+- Jest Framework
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ishpaul Singh**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github - [@ishpaul777](https://github.com/ishpaul777)
+- Twitter - [@ishpaul777](https://twitter.com/ishpaul777)
+- Linkedin - [Ishpaul Singh](https://www.linkedin.com/in/ishpaul-singh-264590226/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,9 +30,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [Jest documentation](https://jestjs.io/docs/getting-started)
 
 ## 📝 License
 
